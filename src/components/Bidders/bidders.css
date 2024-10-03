@@ -1,0 +1,14 @@
+.bidders-container--users {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    border: 1px solid red;
+    margin-bottom: 1rem;
+}
+
+.bidders-border {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

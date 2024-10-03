@@ -1,0 +1,11 @@
+.winner-msg {
+    font-size: 2rem;
+    color: red;
+}
+
+.auction-item--container {
+    width: 50rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
